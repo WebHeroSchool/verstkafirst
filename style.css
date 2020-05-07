@@ -1,0 +1,19 @@
+header {
+    background: lightpink;
+    }
+  
+  section {
+    background: #c4c4c4;
+  }
+  
+  article {
+   border: dashed 1px #000; 
+  }
+  
+  aside {
+    border: dashed 1px red;
+  }
+  
+  footer {
+    background: lightgreen;
+  }
